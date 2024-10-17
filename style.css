@@ -1,0 +1,26 @@
+p {
+  color: antiquewhite;
+  font-size: 14pt;
+}
+body {
+  background-color: gray;
+}
+h1 {
+  font-family: "Times New Roman", Arial, sans-serif;
+  color: floralwhite;
+  font-size: 30pt;
+}
+h2 {
+  font-family: "Times New Roman", Arial, sans-serif;
+  color: floralwhite;
+}
+h3 {
+  font-family: "Times New Roman", Arial, sans-serif;
+  color: floralwhite;
+}
+ul {
+  font-family: "Times New Roman", Arial, sans-serif;
+  color: navajowhite;
+  font-size: 14pt;
+}
+/*Hannah Shane, 10/16/24, I changed the font size for h1. I also changed the background color and font size for the paragraphs and changed all my font to Times New Roman*/
